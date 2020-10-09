@@ -1,0 +1,65 @@
+[
+{
+  "platform": "browser_android",
+  "hardwareConcurrency": 8,
+  "hps": 315.53672462967086,
+  "threads": 8,
+  "ui_speed": 100,
+  "boot_ts": 1602236996,
+  "minimized": false,
+  "device_info": {
+    "default_browser": "",
+    "v": "4.1.24",
+    "ref": "\u0027utm_source\u003dgoogle-play\u0026utm_medium\u003dorganic\u0027",
+    "bid": "8a8b27e6-16d4-4581-bafa-5b1409605181",
+    "sdk": "29",
+    "manufacturer": "vivo",
+    "device": "1951",
+    "canUseChooser": "",
+    "model": "vivo 1918",
+    "product": "1951",
+    "hardware": "",
+    "board": "sdm710",
+    "brand": "vivo",
+    "arm64": "true"
+  },
+  "throttle": 1,
+  "speedRatio": 8,
+  "cpu_load": 100,
+  "hashes": 19203.38398033905
+}
+{
+  "platform": "browser_android",
+  "hardwareConcurrency": 8,
+  "hps": 0,
+  "threads": 0,
+  "ui_speed": 100,
+  "browser_info": {
+    "ads": {
+      "last_show_time": 0
+    },
+    "browser_id": "8a8b27e6-16d4-4581-bafa-5b1409605181",
+    "browser_uid": "gAAAAABffkZ6Nlzly6nKC0leLnZMSNiWAUmHb02SGEzVZuVHDIiEEb_hAEjA71UYCz2yPiRVpf8aAELFLaQeBKY-7z3xyOJkQQap_tUKaSCLDGmNwT85A2Y\u003d",
+    "browser_version": "4.1.24",
+    "default": false,
+    "gpm_licence": {
+      "error_code": -1,
+      "license": 1,
+      "response_code": -1
+    },
+    "installer_name": "com.android.vending",
+    "package_name": "pro.cryptotab.android"
+  }
+} ,
+{
+  "jeda(hours)": "12",
+  "delay(hours)": "1",
+  "cloud_boost": "xxx",
+  "bid_url": "8a8b27e6-16d4-4581-bafa-5b1409605181",
+  "av": "1.0.0.146",
+  "v": "4.1.24",
+  "authorization": "Bearer gAAAAABffkZ6Nlzly6nKC0leLnZMSNiWAUmHb02SGEzVZuVHDIiEEb_hAEjA71UYCz2yPiRVpf8aAELFLaQeBKY-7z3xyOJkQQap_tUKaSCLDGmNwT85A2Y=",
+  "user_agent": "Mozilla/5.0 (Linux; Android 10; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36",
+  "referer": "https://cryptobrowser.site/cdn/mobile-app/default/146/3b81d1c/mobile/android/?skip_db=&referrer=utm_source%3Dgoogle-play%26utm_medium%3Dorganic&v=4.1.24&device=phone&bid=8a8b27e6-16d4-4581-bafa-5b1409605181"
+}
+]
